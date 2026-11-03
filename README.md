@@ -300,16 +300,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abrir um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Mateus Garcia**
 - Email: mateusgarcia.br.mg@gmail.com
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-
----
-
-**Desenvolvido como parte da Jornada de Dados** 📊
+- GitHub: [@MateuS-Garci4](https://github.com/MateuS-Garci4)
